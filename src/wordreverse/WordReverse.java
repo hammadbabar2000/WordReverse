@@ -16,7 +16,7 @@ public class WordReverse {
         
         Scanner input = new Scanner(System.in);
         
-        System.out.print("Please enter a word: ");
+        System.out.println("Please enter a word");
         
         String word = input.nextLine();
         
